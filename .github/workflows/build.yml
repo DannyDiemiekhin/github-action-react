@@ -1,4 +1,4 @@
-name: Build
+name: Builds
 on: [push, workflow_dispatch]
 jobs:
   build:
